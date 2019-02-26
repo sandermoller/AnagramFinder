@@ -5,7 +5,8 @@ Executable file is found in bin folder!
 
 ### How to execute program:
 
-Navigate to executable file through terminal
+Navigate to executable file through terminal.
+
 execute: $ ./anagramfinder "pathToDictionaryFile" "word"
   
 ### EXAMPLE: 
