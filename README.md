@@ -10,4 +10,4 @@ execute: $ ./anagramfinder "<pathToDictionaryFile>" "<word>"
   
 ### EXAMPLE: 
 
-$ ./anagramfinder "/home/dev/Desktop/folder/lemmad.txt" "hiina"
+'''$ ./anagramfinder "/home/dev/Desktop/folder/lemmad.txt" "hiina"'''
